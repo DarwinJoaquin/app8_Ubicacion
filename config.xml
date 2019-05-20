@@ -5,10 +5,10 @@ xmlns:gap ="http://phonegap.com/ns/1.0"
 id ="com.ponegab.app8"
 version ="1.0.0">
 
-<name>app-8-Maps</name>
+<name>app8 Geolocalizacion con google maps</name>
 
 <description>
-Localizacion con Google y GPS
+Muestra la localizacion del dispositivo de acuerdo a google maps y gps
 </description>
 
 <author href="https://build.phonegap.com" email="darwinjoaquinalarconbriones@gmail.com">
