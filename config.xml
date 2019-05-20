@@ -5,13 +5,12 @@ xmlns:gap ="http://phonegap.com/ns/1.0"
 id ="com.ponegab.app8"
 version ="1.0.0">
 
-<name>app8 Geolocalizacion con google maps</name>
+<name>App 8 Geolocalizacion cpn google maps</name>
 
 <description>
-Muestra la localizacion del dispositivo de acuerdo a google maps y gps
 </description>
 
-<author href="https://build.phonegap.com" email="darwinjoaquinalarconbriones@gmail.com">
+<author href="https://build.phonegap.com" email="Darwinjoaquinalarconbriones@gmail.com">
 Darwin Joaquin Alarcon Briones
 </author>
 
@@ -43,6 +42,7 @@ Darwin Joaquin Alarcon Briones
 
 <!--Colocar icono de la app-->
 
-<icon src="res/android/mdpi.png"/>
+<icon src="res/android/negro.png"/>
+
 
 </widget>
