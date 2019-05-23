@@ -2,15 +2,16 @@
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
 xmlns:gap ="http://phonegap.com/ns/1.0"
-id ="com.ponegab.app8"
+id ="com.ponegab.app2"
 version ="1.0.0">
 
-<name>App 8 Geolocalizacion cpn google maps</name>
+<name>app-8-Maps</name>
 
 <description>
+Localizacion con Google y GPS
 </description>
 
-<author href="https://build.phonegap.com" email="Darwinjoaquinalarconbriones@gmail.com">
+<author href="https://build.phonegap.com" email="darwinjoaquinalarconbriones@gmail.com">
 Darwin Joaquin Alarcon Briones
 </author>
 
@@ -42,7 +43,6 @@ Darwin Joaquin Alarcon Briones
 
 <!--Colocar icono de la app-->
 
-<icon src="res/android/negro.png"/>
-
+<icon src="res/android/mdpi.png"/>
 
 </widget>
