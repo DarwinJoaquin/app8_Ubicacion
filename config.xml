@@ -5,7 +5,7 @@ xmlns:gap ="http://phonegap.com/ns/1.0"
 id ="com.ponegab.app2"
 version ="1.0.0">
 
-<name>app-8-Maps</name>
+<name>app 8 Geolocalizacion</name>
 
 <description>
 Localizacion con Google y GPS
